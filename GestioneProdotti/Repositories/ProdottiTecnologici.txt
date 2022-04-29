@@ -1,0 +1,3 @@
+﻿P1 - descrizione1 - 10.23 - marca1 - true
+P2 - descrizione2 - 20.22 - marca2 - true
+P3 - descrizione3 - 30.22 - marca3 - false
